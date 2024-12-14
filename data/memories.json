@@ -1,0 +1,190 @@
+[
+    {
+        "id": 1,
+        "title": "Started new Job as Research Assistant",
+        "description": "Worked under the project AI-OCT-Based plant leaf disease detection system",
+        "image": "./assets/images/RA/6.jpg",
+        "date": "August 1, 2023",
+        "details": "At the University of Sri Jayewardenepura, Faculty of Engineering (Computer Engineering Department) in Colombo, Sri Lanka, I worked as a Research Assistant on the AI-OCT-Based Plant Leaf Disease Detection System project. My responsibilities included conducting peer reviews, writing research articles and review papers, and collaborating on the development of AI-driven methodologies for accurate and efficient plant disease identification. This experience significantly enhanced my technical expertise and research skills in a cutting-edge interdisciplinary domain. I am deeply grateful to Professor Ruchire Eranga Wijesinghe, Dr. Udaya Wijenayake, Dr. Bhagya Nathali Silva, Deshan Kalupahana Sir, and my friend Nipun Shantha for their guidance and support.",
+        "photos": [
+            "./assets/images/RA/7.jpg",
+            "./assets/images/RA/6.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Participated in ICIET conferrence",
+        "description": "Attended he first conference for the reaserch paper (local conference)",
+        "image": "https://via.placeholder.com/300",
+        "date": "November 23, 2023",
+        "details": "Participated for the ICIET conference, for the paper (Development of Smart Helmet Detection System to Enhance the Safe Driving Mode of Motor-Cyclists)",
+        "photos": [
+            "https://via.placeholder.com/400",
+            "https://via.placeholder.com/500"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Leave the Research Assistant job",
+        "description": "The last day of Research Assistant",
+        "image": "https://via.placeholder.com/300",
+        "date": "December 6, 2023",
+        "details": "As I complete my first contract period I felt that no need extend and had an idea to leave the job a",
+        "photos": [
+            "https://via.placeholder.com/400",
+            "https://via.placeholder.com/500"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Started to Reevaluate My Life and Future Plans",
+        "description": "The day I realized I needed to restructure myself",
+        "image": "https://via.placeholder.com/300",
+        "date": "December 10, 2023",
+        "details": "I felt bored and unmotivated in life, with no clear direction for the future. I spent my days enjoying time with my nephew, sisters, and brothers. At one point, I rediscovered my passion for my first love, 'ICT.' I realized this was the perfect time to embrace it and start planning for a better future.",
+        "photos": [
+            "https://via.placeholder.com/400",
+            "https://via.placeholder.com/500"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Started MERN-Stack Development Course at the Number One Institute, UKI",
+        "description": "Embarked on a strong journey toward my passion for web development",
+        "image": "https://via.placeholder.com/300",
+        "date": "May 29, 2024",
+        "details": "I am deeply grateful to Ms. Dniya for giving me the opportunity to enroll in this course, even though I joined late. Unfortunately, being late seems to be a habit of mine! However, I was thrilled to become a student at one of the most prestigious institutes in Sri Lanka. This marked a crucial phase in my life, as I devoted more than 18 hours a day to studying and researching web development. This journey has been an exciting and transformative experience.",
+        "photos": [
+            "https://via.placeholder.com/400",
+            "https://via.placeholder.com/500"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Journey Towards India ♥",
+        "description": "An unforgettable journey to India that changed my life",
+        "image": "https://via.placeholder.com/300",
+        "date": "June 25, 2024",
+        "details": "There were many reasons behind this journey, but most of you know the primary one. Beyond that, this trip completely transformed my life. I was adopted by a family in Perumbakkam, introduced to me by a taxi driver named Saravanan Anna. I stayed at their house for a day, and the next day, I met Venkatase Iya. Saravanan Anna requested that I stay in their block, and they treated me like their own child. They didn't take even a single rupee from me and provided me with three meals a day for an entire month. I am deeply thankful to them—Aravind, Akka, and their younger sister. I still wonder how I can ever repay their kindness. Afterward, I moved to Sivagangai district to meet my friend, Manikandan Anna. I began my journey with his younger brother, Neelakandan, and even met their father, an Ayurvedic doctor. I enjoyed temple festivals, bathing in the river, and experiencing the local culture. Feeling restless, I requested Manikandan Anna to help me find a job. Initially, he refused, but his Siththappa learned about my request and invited me to work in his shop in Coimbatore. I happily accepted and joined him there. Later, I realized I was drifting away from my true goals and decided I needed to either go home or settle in India with a job that aligned with my interests. Amazingly, I discovered that my mother’s sister lived in Coimbatore. I left the shop job and stayed at her home, which became the third heaven in my life. I spent days visiting temples with my Anna and socializing with his Malayali friends. About my Anna—he is truly a 'Coimbatore Singakkuddi.' While staying with my aunt, I told her I didn’t want to return to Sri Lanka and asked her to help me find a job. I even offered to work at their OMG Restaurant. However, the next day, I received a call from my mom—a rather 'threatening' one—saying I had to return to Sri Lanka immediately. 😄 My aunt suggested that I apply for postgraduate studies in Canada, as I could stay at her daughter's (my elder sister’s) home. I declined the offer, explaining that I wanted to stay in India and had no interest in going to Canada. With a heavy heart, I had to return to Sri Lanka, leaving behind a journey that shaped my life forever.",
+        "photos": [
+            "https://via.placeholder.com/400",
+            "https://via.placeholder.com/500"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Online Interview for PG at CUSAT University",
+        "description": "A significant milestone in my life.",
+        "image": "https://via.placeholder.com/300",
+        "date": "July 02, 2024",
+        "details": "While I was in Perumbakkam, India, I received an email from the Head of the Department at CUSAT University inviting me for an interview. Interestingly, although I had previously refused several scholarships, including a Russian scholarship, something inside me told me this was an opportunity I shouldn’t miss. I decided to attend the interview. During the session, I was interviewed by Professor Malathy Ma'am and, I believe, Professor Vishnu Sir. I did my best to manage the interview, and it turned out to be a pivotal moment in my journey.",
+        "photos": [
+            "https://via.placeholder.com/400",
+            "https://via.placeholder.com/500"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Second Flight Journey to India - Kerala - Cochin",
+        "description": "The actual long journey of life began.",
+        "image": "./assets/images/secondflight/20240826_094835.jpg",
+        "date": "August 26, 2024",
+        "details": "I received my scholarship to pursue higher studies at CUSAT University in India, Kerala.",
+        "photos": [
+            "./assets/images/secondflight/20240816_081938.jpg",
+            "./assets/images/secondflight/20240826_060357.jpg",
+            "./assets/images/secondflight/20240826_060403.jpg",
+            "./assets/images/secondflight/20240826_061042.jpg",
+            "./assets/images/secondflight/20240826_101843.jpg",
+            "./assets/images/secondflight/20240826_101847.jpg",
+            "./assets/images/secondflight/20240826_103708.jpg",
+            "./assets/images/secondflight/20240826_104145.jpg",
+            "./assets/images/secondflight/20240826_104630.jpg",
+            "./assets/images/secondflight/20240826_105428.jpg",
+            "./assets/images/secondflight/20240826_105430.jpg",
+            "./assets/images/secondflight/20240826_105654.jpg",
+            "./assets/images/secondflight/20240826_110351.jpg",
+            "./assets/images/secondflight/20240826_120743.jpg",
+            "./assets/images/secondflight/20240826_121011.jpg",
+            "./assets/images/secondflight/20240826_162230.jpg",
+            "./assets/images/secondflight/20240829_192713.jpg",
+            "./assets/images/secondflight/20240901_140421.jpg",
+            "./assets/images/secondflight/20240913_110456.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "First Onam Celebration",
+        "description": "First Onam Celebration at Our Department DCA",
+        "image": "./assets/images/onam/dilaksh.jpg",
+        "date": "September 12, 2024",
+        "details": "I started my PG at Cochin University of Science and Technology at kerala. This is my first onam celebration at here. A beautful memory and this is the day I enjoyed most and where some mind got upset 🤣",
+        "photos": [
+            "./assets/images/onam/onam.jpg",
+            "./assets/images/onam/onam2.jpg",
+            "./assets/images/onam/kolam.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "South Kalamessary Market",
+        "description": "Went South Kalamessary Market.",
+        "image": "./assets/images/skmarket/20241006_095147.jpg",
+        "date": "October 6, 2024",
+        "details": "It remaind me days of my training (Mechatronic Engineer), where I spent alone at Ja-ela-Gamphaha district. A beautiful place whic kind hearted people. It is district wiht sinhala people, where I managed the days wiht the sinhal language I knew",
+        "photos": [
+            "./assets/images/skmarket/20241006_094528.jpg",
+            "./assets/images/skmarket/20241006_094536.jpg",
+            "./assets/images/skmarket/20241006_094543.jpg",
+            "./assets/images/skmarket/20241006_094556.jpg",
+            "./assets/images/skmarket/20241006_095147.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Trip to athirapally waterfalls",
+        "description": "The first trip in kerala PG team",
+        "image": "./assets/images/athirapally/falls.jpg",
+        "date": "December 12, 2024",
+        "details": "Visited scenic spots, took numerous pictures, and enjoyed a refreshing bath in the waterfall.",
+        "photos": [
+            "./assets/images/athirapally/IMG_3951.JPG",
+            "./assets/images/athirapally/IMG_20241212_145224.jpg",
+            "./assets/images/athirapally/IMG_20241212_145231.jpg",
+            "./assets/images/athirapally/IMG_20241212_145237.jpg",
+            "./assets/images/athirapally/IMG_20241212_145310.jpg",
+            "./assets/images/athirapally/IMG_20241212_152856.jpg",
+            "./assets/images/athirapally/IMG_20241212_152900.jpg",
+            "./assets/images/athirapally/IMG_20241212_152901.jpg",
+            "./assets/images/athirapally/IMG_20241212_160101.jpg",
+            "./assets/images/athirapally/IMG_20241212_160107.jpg",
+            "./assets/images/athirapally/IMG_20241212_160112.jpg",
+            "./assets/images/athirapally/IMG_20241212_160120.jpg",
+            "./assets/images/athirapally/IMG_20241212_160125.jpg",
+            "./assets/images/athirapally/IMG_20241212_160247.jpg",
+            "./assets/images/athirapally/IMG_20241212_160251.jpg",
+            "./assets/images/athirapally/IMG_20241212_160806226_HDR_AE.jpg",
+            "./assets/images/athirapally/IMG_20241212_161109.jpg",
+            "./assets/images/athirapally/IMG_20241212_162149.jpg",
+            "./assets/images/athirapally/IMG_20241212_162348.jpg",
+            "./assets/images/athirapally/IMG_20241212_162355.jpg",
+            "./assets/images/athirapally/IMG_20241212_165815.jpg",
+            "./assets/images/athirapally/IMG_20241212_165817.jpg",
+            "./assets/images/athirapally/IMG_20241212_165824.jpg",
+            "./assets/images/athirapally/IMG_20241212_165841.jpg",
+            "./assets/images/athirapally/IMG_20241212_165856.jpg",
+            "./assets/images/athirapally/IMG_20241212_165858.jpg",
+            "./assets/images/athirapally/IMG_20241212_165902.jpg",
+            "./assets/images/athirapally/IMG_20241212_192002.jpg",
+            "./assets/images/athirapally/IMG_20241212_192006.jpg",
+            "./assets/images/athirapally/IMG_20241212_192010.jpg",
+            "./assets/images/athirapally/IMG_20241212_192011.jpg",
+            "./assets/images/athirapally/IMG_20241212_192037.jpg",
+            "./assets/images/athirapally/IMG_20241212_192041.jpg",
+            "./assets/images/athirapally/IMG_20241212_192042.jpg",
+            "./assets/images/athirapally/IMG_20241212_192043.jpg",
+            "./assets/images/athirapally/IMG_20241212_231926.jpg",
+            "./assets/images/athirapally/IMG_20241213_002404.jpg"
+        ]
+    }
+]

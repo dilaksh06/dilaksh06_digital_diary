@@ -1,0 +1,10 @@
+{
+    "photos": [
+        "./assets/images/athirapally/20241006_094528.jpg",
+        "./assets/images/athirapally/20241006_094536.jpg",
+        "./assets/images/athirapally/20241006_094543.jpg",
+        "./assets/images/athirapally/20241006_094556.jpg",
+        "./assets/images/athirapally/20241006_095147.jpg",
+        "./assets/images/athirapally/ptyhon.py"
+    ]
+}

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dilaksh06_digital_diary</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="logohead">
+            <span id="mrkd">Mr_kd_06</span>
+        </div>
+        <nav class="nav">
+            <ul class="nav-list">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="hamburger" id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </header>
+
+
+    <div class="calendar-container">
+        <!-- Left Panel -->
+        <div class="left-panel">
+            <div class="hamburger-menu">&#9776;</div>
+            <div class="date-box">
+                <h1 id="current-day" class="big-date">27</h1>
+                <p id="current-day-name" class="day">THURSDAY</p>
+            </div>
+            <div class="current-events">
+                <h3>Current Events</h3>
+                <ul>
+                    <li> Everything exit in this world, what do you want ?</li>
+                </ul>
+                <a href="#" class="see-events">See past events</a>
+            </div>
+            <div class="create-event">
+                <p>Create an Event</p>
+                <div class="plus-icon">+</div>
+            </div>
+        </div>
+
+        <!-- Calendar Panel -->
+        <div class="calendar-panel">
+            <!-- Year Navigation -->
+            <div class="year-navigation">
+                <button id="prev-year">&lt;</button>
+                <span id="current-year">2024</span>
+                <button id="next-year">&gt;</button>
+            </div>
+            <!-- Months -->
+            <div class="months" id="month-list">
+                <span>Jan</span> <span>Feb</span> <span>Mar</span> <span>Apr</span>
+                <span>May</span> <span>Jun</span> <span>Jul</span> <span>Aug</span>
+                <span>Sep</span> <span>Oct</span> <span>Nov</span> <span>Dec</span>
+            </div>
+            <!-- Days -->
+            <div class="days">
+                <div class="day-labels">
+                    <span>SUN</span> <span>MON</span> <span>TUE</span> <span>WED</span>
+                    <span>THU</span> <span>FRI</span> <span>SAT</span>
+                </div>
+                <div id="dates" class="dates"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="event-details-container"></div>
+
+
+    <footer class="footer">
+        <div class="footer-container">
+            <!-- Section 1: Logo and About -->
+            <div class="footer-about">
+                <a href="#" class="footer-logo">
+                    <img src="./assets/images/logo/logo.jpg" alt="Company Logo" class="logo">
+                </a>
+                <p>
+                    Delivering memorable moments and experiences. Stay connected and explore the journey with us.
+                </p>
+            </div>
+
+            <!-- Section 2: Quick Links -->
+            <div class="footer-links">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#events">Events</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+
+            <!-- Section 3: Social Media -->
+            <div class="footer-social">
+                <h3>Follow Us</h3>
+                <ul>
+                    <li><a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a></li>
+                    <li><a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a></li>
+                    <li><a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Section 4: Newsletter -->
+            <div class="footer-newsletter">
+                <h3>Stay Updated</h3>
+                <form action="#" method="POST">
+                    <input type="email" placeholder="Enter your email" required>
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; 2024 Your Company Name. All Rights Reserved.</p>
+            <p><a href="#privacy">Privacy Policy</a> | <a href="#terms">Terms of Service</a></p>
+        </div>
+    </footer>
+
+
+    <script src="./js/script.js"></script>
+</body>
+
+</html>

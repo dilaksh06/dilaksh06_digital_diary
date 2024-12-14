@@ -1,0 +1,143 @@
+.event-details {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+
+.event-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid rgb(96, 233, 96);
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 950px;
+    /* Set a fixed max-width for consistency */
+    margin: auto;
+    /* Center the card horizontally */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Add a subtle shadow for better visual appeal */
+    background-color: white;
+    /* Ensure background color for contrast */
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.event-card img {
+    max-width: 350px;
+    height: auto;
+    /* Maintain aspect ratio */
+    max-height: 350px;
+    /* Limit height but maintain proportions */
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    /* Optional: Add a subtle shadow for better aesthetics */
+    transition: transform 0.3s ease;
+    /* Smooth hover zoom effect */
+}
+
+.event-card img:hover {
+    transform: scale(1.05);
+    /* Slight zoom-in on hover */
+}
+
+
+.event-card h3 {
+    font-size: 20px;
+    /* Adjust font size for better alignment */
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+/* Optional styling for images in the photos section */
+.event-card .photos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    /* Space between images */
+    justify-content: center;
+    /* Center-align images */
+
+}
+
+
+.event-card .photos img {
+    max-width: 110%;
+    height: auto;
+    /* Maintain aspect ratio */
+    max-height: 350px;
+    /* Limit height but maintain proportions */
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    /* Optional: Add a subtle shadow for better aesthetics */
+    transition: transform 0.3s ease;
+    /* Smooth hover zoom effect */
+}
+
+.event-card .photos img:hover {
+    transform: scale(1.05);
+    /* Slight zoom-in on hover */
+}
+
+
+.event-card p {
+    font-size: 16px;
+    color: #555;
+    text-align: left;
+    margin-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+/* Media Query for Mobile Devices */
+@media (max-width: 768px) {
+
+
+    .event-card {
+        max-width: 90%;
+        /* Allow the card to shrink for smaller screens */
+        padding: 15px;
+    }
+
+    .event-card img {
+        width: 120px;
+        /* Adjust image size for mobile */
+        height: 120px;
+    }
+
+    .event-card h3 {
+        font-size: 18px;
+    }
+
+    .event-card p {
+        font-size: 14px;
+    }
+
+}
+
+/* Extra Small Screens (Mobile in Portrait Mode) */
+@media (max-width: 480px) {
+    .event-card {
+        padding: 10px;
+    }
+
+    .event-card img {
+        max-width: 70%;
+    }
+
+    .event-card h3 {
+        font-size: 18px;
+    }
+
+    .event-card p {
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,87 @@
+.header {
+    display: flex;
+    /* Flexbox layout */
+    justify-content: space-between;
+    /* Space between logo and navigation */
+    align-items: center;
+    /* Align items vertically in the center */
+    padding: 20px 30px;
+    background-color: #333;
+    color: white;
+}
+
+.logohead {
+    flex: 1;
+    /* Ensure the logo occupies one part of the flex space */
+}
+
+.nav {
+    flex: 3;
+    /* Make the navigation take proportionate space */
+}
+
+.nav-list {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    /* Ensure proper alignment */
+    padding: 0;
+    justify-content: flex-end;
+    /* Align navigation items to the right */
+}
+
+.nav-list li {
+    margin-left: 20px;
+    /* Spacing between navigation items */
+}
+
+.nav-list a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.nav-list a:hover {
+    color: #28c666;
+}
+
+.hamburger {
+    display: none;
+    /* Hidden by default for larger screens */
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 20px;
+    width: 25px;
+}
+
+.hamburger span {
+    display: block;
+    height: 3px;
+    background-color: white;
+}
+
+/* Mobile Menu */
+.nav-list {
+    display: flex;
+}
+
+.nav-list.mobile {
+    display: block;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    background-color: #333;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.nav-list.mobile li {
+    padding: 10px;
+    text-align: center;
+}
+
+.nav-list.mobile li a {
+    font-size: 18px;
+}

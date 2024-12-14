@@ -1,0 +1,251 @@
+/* Calendar Styling */
+.calendar-container {
+    display: flex;
+    max-width: 900px;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.left-panel {
+    background-color: #28c666;
+    color: #fff;
+    width: 40%;
+    padding: 20px;
+}
+
+.hamburger-menu {
+    font-size: 24px;
+}
+
+.date-box {
+    text-align: center;
+}
+
+.big-date {
+    font-size: 80px;
+}
+
+.day {
+    font-size: 20px;
+}
+
+.current-events h3 {
+    margin: 20px 0 10px;
+}
+
+.see-events {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.create-event {
+    text-align: center;
+    padding-top: 15px;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.plus-icon {
+    font-size: 30px;
+}
+
+.calendar-panel {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+.year-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.year-navigation button {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.months {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.months span {
+    margin: 5px 8px;
+    cursor: pointer;
+    color: #888;
+}
+
+.months span.active {
+    color: #28c666;
+    font-weight: bold;
+}
+
+.day-labels,
+.dates {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.day-labels span,
+.dates span {
+    width: calc(100% / 7);
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.dates span {
+    position: relative;
+    cursor: pointer;
+    font-size: 14px;
+    color: #444;
+}
+
+.dates span.current {
+    background-color: #28c666;
+    color: white;
+    border-radius: 50%;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+}
+
+
+/* Blue dot for dates with events */
+.dates span.with-event {
+    position: relative;
+}
+
+/* Dot above the date */
+.dates span.with-event::before {
+    content: '';
+    position: absolute;
+    top: -5px;
+    /* Adjust the dot's position */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 8px;
+    height: 8px;
+    background-color: blue;
+    border-radius: 50%;
+    /* Make it a circle */
+}
+
+.dates span {
+    position: relative;
+}
+
+.dates span .dot {
+    position: absolute;
+    top: 5px;
+    /* Adjust position above the number */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 6px;
+    height: 6px;
+    background-color: blue;
+    border-radius: 50%;
+}
+
+
+
+
+/* Media Query for Mobile Devices */
+@media (max-width: 768px) {
+
+    .calendar-container {
+        flex-direction: column;
+        max-width: 100%;
+        margin: 20px;
+    }
+
+    .left-panel {
+        width: 100%;
+        padding: 20px 10px;
+        text-align: center;
+    }
+
+    .hamburger-menu {
+        font-size: 30px;
+    }
+
+    .date-box {
+        margin-bottom: 20px;
+    }
+
+    .big-date {
+        font-size: 60px;
+    }
+
+    .day {
+        font-size: 18px;
+    }
+
+    .calendar-panel {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .year-navigation {
+        font-size: 16px;
+    }
+
+    .months {
+        font-size: 14px;
+    }
+
+    .months span {
+        margin: 5px;
+    }
+
+    .day-labels span,
+    .dates span {
+        font-size: 12px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+}
+
+
+
+
+/* Extra Small Screens (Mobile in Portrait Mode) */
+@media (max-width: 480px) {
+    .calendar-container {
+        margin: 10px;
+    }
+
+    .hamburger-menu {
+        font-size: 35px;
+    }
+
+    .left-panel {
+        padding: 15px;
+    }
+
+    .big-date {
+        font-size: 50px;
+    }
+
+    .day {
+        font-size: 16px;
+    }
+
+    .months span {
+        font-size: 12px;
+    }
+}

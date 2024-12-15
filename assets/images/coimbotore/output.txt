@@ -1,0 +1,13 @@
+{
+    "photos": [
+        "./assets/images/coimbotore/1.png",
+        "./assets/images/coimbotore/2.png",
+        "./assets/images/coimbotore/3.png",
+        "./assets/images/coimbotore/4.png",
+        "./assets/images/coimbotore/5.png",
+        "./assets/images/coimbotore/6.png",
+        "./assets/images/coimbotore/7.png",
+        "./assets/images/coimbotore/8.png",
+        "./assets/images/coimbotore/ptyhon.py"
+    ]
+}

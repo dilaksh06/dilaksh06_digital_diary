@@ -2,7 +2,7 @@
 @import url(footer.css);
 @import url(calender.css);
 @import url(event.css);
-
+@import url(model.css);
 
 /* General Reset */
 * {
@@ -14,56 +14,4 @@
 
 body {
     background-color: #e8e8e8;
-}
-
-
-/* Modal Styles */
-.image-modal {
-    display: none;
-    /* Hidden by default */
-    position: fixed;
-    z-index: 1000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgba(0, 0, 0, 0.7);
-    /* Dark background */
-    justify-content: center;
-    align-items: center;
-}
-
-.modal-content {
-    position: relative;
-    background-color: white;
-    margin: 15% auto;
-    padding: 20px;
-    width: 80%;
-    max-width: 600px;
-    border-radius: 10px;
-}
-
-#modal-image {
-    width: 100%;
-    /* Make the image fit the modal */
-    height: auto;
-    border-radius: 10px;
-}
-
-.close-modal {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 25px;
-    font-weight: bold;
-    color: black;
-    cursor: pointer;
-}
-
-.close-modal:hover,
-.close-modal:focus {
-    color: #ccc;
-    text-decoration: none;
-    cursor: pointer;
 }

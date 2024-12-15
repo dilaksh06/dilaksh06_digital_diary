@@ -16,6 +16,10 @@
     const modalImage = document.getElementById("modal-image");
     const closeModal = document.getElementById("close-modal");
 
+    // Audio Elements
+    const audio = document.getElementById("audio");
+    const playButton = document.getElementById("play-audio");
+
     // Current date and navigation state
     let currentDate = new Date();
     let currentMonth = currentDate.getMonth();
@@ -166,6 +170,22 @@
     window.addEventListener("click", (e) => {
         if (e.target === modal) {
             modal.style.display = "none";
+        }
+    });
+
+    // Set the loop to true so the audio plays continuously
+    audio.loop = true;
+
+    // Play/Pause Audio Button Click
+    playButton.addEventListener("click", () => {
+        // If the audio is paused, start playing it
+        if (audio.paused) {
+            audio.play();
+            playButton.textContent = "Pause Sound";  // Change button text to "Pause"
+        } else {
+            // If the audio is playing, pause it
+            audio.pause();
+            playButton.textContent = "Play Sound";  // Change button text back to "Play"
         }
     });
 

@@ -3,6 +3,8 @@
 @import url(calender.css);
 @import url(event.css);
 @import url(model.css);
+@import url(audio.css);
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Style+Script&display=swap');
 
 /* General Reset */
 * {
@@ -14,4 +16,40 @@
 
 body {
     background-color: #e8e8e8;
+}
+
+.title h1 {
+    font-family: 'Style Script', cursive;
+    font-size: 45px;
+    /* Default font size for larger screens */
+    color: #0ae403;
+    /* Green shade */
+    text-align: center;
+    margin-top: 30px;
+    letter-spacing: 3px;
+    /* Default letter spacing */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .title h1 {
+        font-size: 35px;
+        /* Slightly smaller font size for tablets */
+        margin-top: 20px;
+        /* Reduced margin for better spacing */
+        letter-spacing: 2px;
+        /* Adjust letter-spacing for mobile screens */
+    }
+}
+
+/* Small mobile devices (portrait mode) */
+@media (max-width: 480px) {
+    .title h1 {
+        font-size: 28px;
+        /* Even smaller font size for small screens */
+        margin-top: 15px;
+        /* Less margin on small screens */
+        letter-spacing: 1px;
+        /* Further reduced letter-spacing */
+    }
 }

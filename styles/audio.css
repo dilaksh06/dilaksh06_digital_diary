@@ -1,0 +1,25 @@
+.audio-player {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#audio {
+    display: none;
+    /* Hide the audio player controls */
+}
+
+#play-audio {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #0ae403;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#play-audio:hover {
+    background-color: #008f00;
+    /* Darker green when hovered */
+}

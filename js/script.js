@@ -10,6 +10,7 @@
     const eventDetailsContainer = document.getElementById("event-details-container");
     const hamburger = document.getElementById("hamburger");
     const navList = document.querySelector(".nav-list");
+    const currentEventsTitle = document.getElementById("current-events-title");
 
     // Modal Elements
     const modal = document.getElementById("image-modal");
@@ -83,6 +84,9 @@
         const event = getEventForDate(dateString);
 
         if (event) {
+            // Display event title in the current-events-title element
+            currentEventsTitle.textContent = event.title || "No Title";
+
             eventDetailsContainer.innerHTML = `
                 <div class="event-card">
                     ${event.image ? `<img src="${event.image}" alt="${event.title}" class="event-image">` : ""}
@@ -98,6 +102,7 @@
                 </div>
             `;
         } else {
+            currentEventsTitle.textContent = "No Events Found"; // Update title for no events
             eventDetailsContainer.innerHTML = `<p>No events found for this date.</p>`;
         }
     }
@@ -188,5 +193,4 @@
             playButton.textContent = "Play Sound";  // Change button text back to "Play"
         }
     });
-
 })();

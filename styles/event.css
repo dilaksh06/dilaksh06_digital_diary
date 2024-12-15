@@ -1,3 +1,4 @@
+/* Event Details Section */
 .event-details {
     margin-top: 20px;
     padding: 20px;
@@ -6,7 +7,7 @@
     border-radius: 10px;
 }
 
-
+/* Event Card */
 .event-card {
     display: flex;
     flex-direction: column;
@@ -17,26 +18,26 @@
     border-radius: 20px;
     padding: 20px;
     max-width: 950px;
-    /* Set a fixed max-width for consistency */
-    margin: auto;
+    /* Fixed max-width for consistency */
+    margin: 20px auto;
     /* Center the card horizontally */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    /* Add a subtle shadow for better visual appeal */
+    /* Subtle shadow for visual appeal */
     background-color: white;
     /* Ensure background color for contrast */
     margin-bottom: 20px;
-    margin-top: 20px;
 }
 
+/* Event Card Image */
 .event-card img {
-    max-width: 350px;
+    max-width: 100%;
     height: auto;
-    /* Maintain aspect ratio */
+    /* Allow the image to scale properly without exceeding the container */
     max-height: 350px;
-    /* Limit height but maintain proportions */
+    /* Limit height but maintain aspect ratio */
     border-radius: 5px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-    /* Optional: Add a subtle shadow for better aesthetics */
+    /* Subtle shadow for better aesthetics */
     transition: transform 0.3s ease;
     /* Smooth hover zoom effect */
 }
@@ -46,7 +47,7 @@
     /* Slight zoom-in on hover */
 }
 
-
+/* Event Card Title */
 .event-card h3 {
     font-size: 20px;
     /* Adjust font size for better alignment */
@@ -54,8 +55,7 @@
     margin-bottom: 10px;
 }
 
-
-/* Optional styling for images in the photos section */
+/* Photos Section within Event Card */
 .event-card .photos {
     display: flex;
     flex-wrap: wrap;
@@ -63,19 +63,18 @@
     /* Space between images */
     justify-content: center;
     /* Center-align images */
-
 }
 
-
 .event-card .photos img {
-    max-width: 110%;
+    max-width: 100%;
+    /* Ensure images are responsive */
     height: auto;
     /* Maintain aspect ratio */
     max-height: 350px;
     /* Limit height but maintain proportions */
     border-radius: 5px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-    /* Optional: Add a subtle shadow for better aesthetics */
+    /* Optional: Add subtle shadow */
     transition: transform 0.3s ease;
     /* Smooth hover zoom effect */
 }
@@ -85,7 +84,7 @@
     /* Slight zoom-in on hover */
 }
 
-
+/* Event Card Description */
 .event-card p {
     font-size: 16px;
     color: #555;
@@ -94,13 +93,8 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-
-
-
-/* Media Query for Mobile Devices */
+/* Mobile Responsiveness - Devices with screen width <= 768px */
 @media (max-width: 768px) {
-
-
     .event-card {
         max-width: 90%;
         /* Allow the card to shrink for smaller screens */
@@ -108,36 +102,58 @@
     }
 
     .event-card img {
-        width: 120px;
-        /* Adjust image size for mobile */
-        height: 120px;
+        max-width: 100%;
+        /* Ensure image fits within the card */
+        height: auto;
+        /* Maintain aspect ratio */
+        max-height: 250px;
+        /* Reduce the max height for mobile */
     }
 
     .event-card h3 {
         font-size: 18px;
+        /* Adjust the font size for better readability */
     }
 
     .event-card p {
         font-size: 14px;
+        /* Adjust the font size for mobile */
     }
 
+    .event-card .photos img {
+        max-width: 45%;
+        /* Limit the image width to fit on smaller screens */
+        height: auto;
+    }
 }
 
-/* Extra Small Screens (Mobile in Portrait Mode) */
+/* Extra Small Screens (Mobile Portrait Mode) - Devices with screen width <= 480px */
 @media (max-width: 480px) {
     .event-card {
         padding: 10px;
+        width: 100%;
+        /* Make card full-width */
     }
 
     .event-card img {
-        max-width: 70%;
+        max-width: 100%;
+        /* Ensure image takes up full width of card */
+        max-height: 200px;
+        /* Further reduce image height on very small screens */
     }
 
     .event-card h3 {
         font-size: 18px;
+        /* Keep the font size consistent for readability */
     }
 
     .event-card p {
         font-size: 12px;
+        /* Reduce font size for small screens */
+    }
+
+    .event-card .photos img {
+        max-width: 48%;
+        /* Ensure the images fit nicely on smaller screens */
     }
 }

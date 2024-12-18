@@ -12,7 +12,7 @@
         ]
     },
     {
-        "id": 30,
+        "id": 2,
         "title": "Official Graduation",
         "description": "Graduated from the University of Sri Jayewardenapura with a Bachelor of Engineering Technology, specializing in Mechatronics.",
         "image": "./assets/images/graduation/DRM07493.jpg",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Participated in ICIET conferrence",
         "description": "Attended he first conference for the reaserch paper (local conference)",
         "image": "https://via.placeholder.com/300",
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Leave the Research Assistant job",
         "description": "The last day of Research Assistant",
         "image": "https://via.placeholder.com/300",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Started to Reevaluate My Life and Future Plans",
         "description": "The day I realized I needed to restructure myself",
         "image": "https://via.placeholder.com/300",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Started MERN-Stack Development Course at the Number One Institute, UKI",
         "description": "Embarked on a strong journey toward my passion for web development",
         "image": "https://via.placeholder.com/300",
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Journey Towards India ♥",
         "description": "An unforgettable journey to India that changed my life",
         "image": "./assets/images/firstflight/4.png",
@@ -117,7 +117,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Online Interview for PG at CUSAT University",
         "description": "A significant milestone in my life.",
         "image": "https://via.placeholder.com/300",
@@ -129,7 +129,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 9,
         "title": "Second Flight Journey to India - Kerala - Cochin",
         "description": "The actual long journey of life began.",
         "image": "./assets/images/secondflight/20240826_061042.jpg",
@@ -158,7 +158,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 10,
         "title": "Visit to Love Kochi",
         "description": "First outing with Sri Lankan students",
         "image": "./assets/images/lovekochchi/6.png",
@@ -174,7 +174,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 11,
         "title": "First Onam Celebration",
         "description": "First Onam Celebration at Our Department DCA",
         "image": "./assets/images/onam/dilaksh.jpg",
@@ -187,7 +187,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 12,
         "title": "Late Night Out - With PG Set",
         "description": "This is my first late night out in Kerala with the PG group",
         "image": "./assets/images/nightout/3.jpg",
@@ -201,7 +201,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 13,
         "title": "South Kalamessary Market",
         "description": "Went South Kalamessary Market.",
         "image": "./assets/images/skmarket/20241006_095147.jpg",
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 14,
         "title": "Diwali Celebration",
         "description": "Diwali Celebration at our department DAC-MCA",
         "image": "./assets/images/diwali/20241006_095147.jpg",
@@ -231,7 +231,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 15,
         "title": "Thrikkakara Vamana Moorthy temple",
         "description": "Thrikkakara Vamana Moorthy temple -First-Time",
         "image": "./assets/images/thirikkakara/2.png",
@@ -254,7 +254,7 @@
         ]
     },
     {
-        "id": 100,
+        "id": 16,
         "title": "Self broken love",
         "description": "Nothing to say 😥",
         "image": "./assets/images/she/broken.jpg",
@@ -265,7 +265,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 17,
         "title": "Lulu Mall",
         "description": "Went Lulu Mall after second internal first semester",
         "image": "./assets/images/lulumall/2.png",
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": 18,
         "title": "Trip to athirapally waterfalls",
         "description": "The first trip in kerala PG team",
         "image": "./assets/images/athirapally/falls.jpg",
@@ -293,9 +293,6 @@
             "./assets/images/athirapally/IMG_20241212_145231.jpg",
             "./assets/images/athirapally/IMG_20241212_145237.jpg",
             "./assets/images/athirapally/IMG_20241212_145310.jpg",
-            "./assets/images/athirapally/IMG_20241212_152856.jpg",
-            "./assets/images/athirapally/IMG_20241212_152900.jpg",
-            "./assets/images/athirapally/IMG_20241212_152901.jpg",
             "./assets/images/athirapally/IMG_20241212_160101.jpg",
             "./assets/images/athirapally/IMG_20241212_160107.jpg",
             "./assets/images/athirapally/IMG_20241212_160112.jpg",
@@ -324,6 +321,108 @@
             "./assets/images/athirapally/IMG_20241212_192043.jpg",
             "./assets/images/athirapally/IMG_20241212_231926.jpg",
             "./assets/images/athirapally/IMG_20241213_002404.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Christmas Gift Exchange & NSS Garden Cleaning",
+        "description": "A memorable day filled with joy, teamwork, and service, where we exchanged Christmas gifts in our class and contributed to community welfare by cleaning the garden area as part of NSS activities.",
+        "image": "./assets/images/NSS-DEC182024/December_18_2024_9.jpg",
+        "date": "December 18, 2024",
+        "details": "It was a special day for us at the Department of Computer Applications, CUSAT University, pursuing our Master of Computer Applications. We started with a delightful Christmas gift exchange in our class, spreading holiday cheer and bonding with our peers. Later in the day, as part of our NSS service, we took the initiative to clean the garden area. The activity began at 3:00 PM and concluded at 5:00 PM, leaving the space refreshed and tidy.",
+        "photos": [
+            "./assets/images/christmas-DEC182024/December_18_2024_1.jpg",
+            "./assets/images/christmas-DEC182024/December_18_2024_2.jpg",
+            "./assets/images/christmas-DEC182024/December_18_2024_3.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_1.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_2.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_3.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_1.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_10.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_12.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_13.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_14.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_15.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_16.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_17.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_18.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_19.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_2.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_20.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_21.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_22.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_23.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_24.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_25.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_26.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_27.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_28.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_29.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_3.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_30.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_31.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_32.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_33.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_34.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_35.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_36.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_37.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_38.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_39.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_4.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_40.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_41.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_42.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_43.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_44.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_45.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_46.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_47.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_48.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_49.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_5.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_50.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_51.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_52.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_53.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_54.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_55.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_56.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_57.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_58.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_59.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_6.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_60.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_61.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_62.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_63.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_64.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_65.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_66.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_67.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_68.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_69.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_7.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_70.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_71.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_72.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_73.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_74.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_75.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_76.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_77.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_78.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_79.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_8.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_80.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_81.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_82.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_83.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_84.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_85.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_86.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_87.jpg",
+            "./assets/images/NSS-DEC182024/December_18_2024_9.jpg"
         ]
     }
 ]

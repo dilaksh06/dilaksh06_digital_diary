@@ -424,5 +424,26 @@
             "./assets/images/NSS-DEC182024/December_18_2024_87.jpg",
             "./assets/images/NSS-DEC182024/December_18_2024_9.jpg"
         ]
+    },
+    {
+        "id": 20,
+        "title": "Christmas Celebration",
+        "description": "Today, we had a joyous Christmas celebration in our Department of Computer Applications, CUSAT University, Cochin. The event was filled with festive cheer, including cake cutting, games, dancing, and singing, bringing everyone together to share the holiday spirit.",
+        "image": "./assets/images/chritsmas-DEC192024/December_19_2024_20.jpg",
+        "date": "December 19, 2024",
+        "details": "The Christmas celebration began with a warm welcome to all faculty and students. A beautifully decorated cake was cut to mark the festive occasion, symbolizing unity and joy. The event featured exciting games that had everyone laughing and enjoying, followed by delightful dance performances showcasing talent and energy. Enthusiastic singing of Christmas carols and popular songs added to the lively atmosphere, spreading holiday vibes throughout the department. The decorations, music, and participation made it a memorable day for everyone. The celebration truly embodied the spirit of Christmas, fostering togetherness and happiness.",
+        "photos": [
+            "./assets/images/chritsmas-DEC192024/December_19_2024_14.jpg",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_16.JPG",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_17.JPG",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_18.JPG",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_19.jpg",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_2.jpg",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_20.jpg",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_21.jpg",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_3.jpg",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_4.jpg",
+            "./assets/images/chritsmas-DEC192024/December_19_2024_5.jpg"
+        ]
     }
 ]

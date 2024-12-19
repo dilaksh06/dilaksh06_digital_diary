@@ -1,9 +1,0 @@
-{
-    "photos": [
-        "./assets/images/christmas-DEC182024/date.py",
-        "./assets/images/christmas-DEC182024/December_18_2024_1.jpg",
-        "./assets/images/christmas-DEC182024/December_18_2024_2.jpg",
-        "./assets/images/christmas-DEC182024/December_18_2024_3.jpg",
-        "./assets/images/christmas-DEC182024/ptyhon.py"
-    ]
-}

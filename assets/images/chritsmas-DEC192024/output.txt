@@ -1,0 +1,27 @@
+{
+    "photos": [
+        "./assets/images/chritsmas-DEC192024/date.py",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_1.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_10.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_11.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_12.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_13.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_14.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_15.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_16.JPG",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_17.JPG",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_18.JPG",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_19.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_2.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_20.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_21.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_3.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_4.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_5.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_6.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_7.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_8.jpg",
+        "./assets/images/chritsmas-DEC192024/December_19_2024_9.jpg",
+        "./assets/images/chritsmas-DEC192024/ptyhon.py"
+    ]
+}

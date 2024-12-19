@@ -34,7 +34,7 @@ def rename_images_in_folder(folder_path):
             print(f"Error renaming '{file_name}': {e}")
 
 # Specify the folder path
-folder_path = "C:/xampp/htdocs/dilaksh06_digital_diary/assets/images/christmas-DEC182024"
+folder_path = "C:/xampp/htdocs/dilaksh06_digital_diary/assets/images/chritsmas-DEC192024"
 
 # Call the function
 rename_images_in_folder(folder_path)

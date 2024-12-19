@@ -5,7 +5,7 @@ import json
 def save_file_names_to_json(folder_path, output_file):
     try:
         # List all files in the folder
-        files = [f"./assets/images/christmas-DEC182024/{f}" for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))]
+        files = [f"./assets/images/chritsmas-DEC192024/{f}" for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))]
 
         # Create a dictionary with the "photos" key
         data = {
@@ -25,7 +25,7 @@ def save_file_names_to_json(folder_path, output_file):
 
 # Example usage
 if __name__ == "__main__":
-    folder_path = "C:/xampp/htdocs/dilaksh06_digital_diary/assets/images/christmas-DEC182024" # Replace with your folder path
+    folder_path = "C:/xampp/htdocs/dilaksh06_digital_diary/assets/images/chritsmas-DEC192024" # Replace with your folder path
     output_file = "output.txt"  # Output text file name
 
     save_file_names_to_json(folder_path, output_file)

@@ -30,6 +30,36 @@ body {
     /* Default letter spacing */
 }
 
+.p-text p {
+    font-family: 'Arial', sans-serif;
+    /* Clean, modern font */
+    font-size: 16px;
+    /* Readable text size */
+    line-height: 1.6;
+    /* Increase line spacing for better readability */
+    color: #333;
+    /* Dark text color for contrast */
+    margin-bottom: 15px;
+    /* Space between paragraphs */
+    padding: 10px;
+    /* Inner padding for a comfortable reading experience */
+    background-color: #f4f4f4;
+    /* Subtle background color */
+    border-radius: 8px;
+    /* Slightly rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Soft shadow for a floating effect */
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    /* Smooth transition for hover effects */
+}
+
+.p-text p:hover {
+    background-color: #e1e1e1;
+    /* Slightly darker background on hover */
+    transform: translateY(-2px);
+    /* Lift the paragraph on hover */
+}
+
 /* Mobile responsiveness */
 @media (max-width: 768px) {
     .title h1 {

@@ -1,0 +1,33 @@
+{
+    "photos": [
+        "./assets/images/diwali/date.py",
+        "./assets/images/diwali/December_31_2024_1.JPG",
+        "./assets/images/diwali/December_31_2024_10.JPG",
+        "./assets/images/diwali/December_31_2024_11.JPG",
+        "./assets/images/diwali/December_31_2024_12.JPG",
+        "./assets/images/diwali/December_31_2024_13.JPG",
+        "./assets/images/diwali/December_31_2024_14.JPG",
+        "./assets/images/diwali/December_31_2024_15.JPG",
+        "./assets/images/diwali/December_31_2024_16.JPG",
+        "./assets/images/diwali/December_31_2024_17.JPG",
+        "./assets/images/diwali/December_31_2024_18.JPG",
+        "./assets/images/diwali/December_31_2024_19.JPG",
+        "./assets/images/diwali/December_31_2024_2.JPG",
+        "./assets/images/diwali/December_31_2024_20.JPG",
+        "./assets/images/diwali/December_31_2024_21.JPG",
+        "./assets/images/diwali/December_31_2024_22.JPG",
+        "./assets/images/diwali/December_31_2024_23.JPG",
+        "./assets/images/diwali/December_31_2024_24.JPG",
+        "./assets/images/diwali/December_31_2024_25.JPG",
+        "./assets/images/diwali/December_31_2024_26.JPG",
+        "./assets/images/diwali/December_31_2024_27.JPG",
+        "./assets/images/diwali/December_31_2024_3.JPG",
+        "./assets/images/diwali/December_31_2024_4.JPG",
+        "./assets/images/diwali/December_31_2024_5.JPG",
+        "./assets/images/diwali/December_31_2024_6.JPG",
+        "./assets/images/diwali/December_31_2024_7.JPG",
+        "./assets/images/diwali/December_31_2024_8.JPG",
+        "./assets/images/diwali/December_31_2024_9.JPG",
+        "./assets/images/diwali/ptyhon.py"
+    ]
+}

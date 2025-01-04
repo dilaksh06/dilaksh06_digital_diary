@@ -591,5 +591,33 @@
             "./assets/images/END_DEC312024/a/P99.jpg",
             "./assets/images/END_DEC312024/1.png"
         ]
+    },
+    {
+        "id": 21,
+        "title": "Welcome 2025",
+        "description": "We gratefull to every days",
+        "image": "./assets/images/JAN012025-newyear/January_04_2025_8.jpg",
+        "date": "January 1, 2025",
+        "details": "New year with new hopes . Added two monster(books) to bookshelf.A memorial gift from a friend and a kind sister, placed in the memory box",
+        "photos": [
+            "./assets/images/JAN012025-newyear/January_04_2025_3.jpg",
+            "./assets/images/JAN012025-newyear/January_04_2025_8.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Thrikkakara Vamana Moorthy temple",
+        "description": "Begins the year with great prayer",
+        "image": "./assets/images/JAN022025-temple/January_04_2025_1.jpg",
+        "date": "January 2, 2025",
+        "details": "As usual  went temple for the prayer, but mornig time. It was great day and met jithin bhai",
+        "photos": [
+            "./assets/images/JAN022025-temple/January_04_2025_1.jpg",
+            "./assets/images/JAN022025-temple/January_04_2025_2.jpg",
+            "./assets/images/JAN022025-temple/January_04_2025_4.jpg",
+            "./assets/images/JAN022025-temple/January_04_2025_5.jpg",
+            "./assets/images/JAN022025-temple/January_04_2025_6.jpg",
+            "./assets/images/JAN022025-temple/January_04_2025_7.jpg"
+        ]
     }
 ]

@@ -1,0 +1,12 @@
+{
+    "photos": [
+        "./assets/images/JAN022025-temple/date.py",
+        "./assets/images/JAN022025-temple/January_04_2025_1.jpg",
+        "./assets/images/JAN022025-temple/January_04_2025_2.jpg",
+        "./assets/images/JAN022025-temple/January_04_2025_4.jpg",
+        "./assets/images/JAN022025-temple/January_04_2025_5.jpg",
+        "./assets/images/JAN022025-temple/January_04_2025_6.jpg",
+        "./assets/images/JAN022025-temple/January_04_2025_7.jpg",
+        "./assets/images/JAN022025-temple/ptyhon.py"
+    ]
+}

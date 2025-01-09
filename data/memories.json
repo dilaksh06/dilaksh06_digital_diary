@@ -258,7 +258,8 @@
         "description": "Thrikkakara Vamana Moorthy temple -First-Time",
         "image": "./assets/images/thirikkakara/2.png",
         "date": "October 27, 2024",
-        "details": "I have record that I don't go temple, unless my father,moter and sister force me to go. I was so destrubed and for the first time in kerala I went to this temple to get rid out of. after that, the thing happened are out of.... actual fever started about believe iin god.",
+        "details": "This temple is more powerfull ",
+        "data": "unless my father,moter and sister force me to go. I was so destrubed and for the first time in kerala I went to this temple to get rid out of. after that, the thing happened are out of.... actual fever started about believe iin god.",
         "photos": [
             "./assets/images/thirikkakara/1.png",
             "./assets/images/thirikkakara/11.png",
@@ -278,12 +279,12 @@
     {
         "id": 16,
         "title": "***",
-        "description": "*** 😥",
-        "image": "./assets/images/she/broken.jpg",
+        "description": "*** made a big mistake, I guess it as a manipulation any how I overcome. ",
+        "image": "./assets/images/she/brken.jpg",
         "date": "October 28, 2024",
         "details": "",
         "photos": [
-            "./assets/images/she/broken.jpg"
+            "./assets/images/she/brken.jpg"
         ]
     },
     {
@@ -618,6 +619,17 @@
             "./assets/images/JAN022025-temple/January_04_2025_5.jpg",
             "./assets/images/JAN022025-temple/January_04_2025_6.jpg",
             "./assets/images/JAN022025-temple/January_04_2025_7.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "manjadi a second moemorial gift",
+        "description": "one more memorial gift addedd to memory collection",
+        "image": "./assets/images/JAN09012025-memory/January_09_2025_1.jpg",
+        "date": "January 9, 2025",
+        "details": "It is a gift from a kind sister,friend parvathy santhosh",
+        "photos": [
+            "./assets/images/JAN09012025-memory/January_09_2025_1.jpg"
         ]
     }
 ]

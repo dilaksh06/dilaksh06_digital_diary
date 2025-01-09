@@ -1,0 +1,7 @@
+{
+    "photos": [
+        "./assets/images/JAN09012025-memory/date.py",
+        "./assets/images/JAN09012025-memory/January_09_2025_1.jpg",
+        "./assets/images/JAN09012025-memory/ptyhon.py"
+    ]
+}

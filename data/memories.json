@@ -631,5 +631,22 @@
         "photos": [
             "./assets/images/JAN09012025-memory/January_09_2025_1.jpg"
         ]
+    },
+    {
+        "id": 24,
+        "title": "Anpodu kanmani Movie",
+        "description": "Movie time",
+        "image": "./assets/images/movie-JAN242025/January_24_2025_10.jpg",
+        "date": "January 24, 2025",
+        "details": "A movie after long time. I mostly prefer Malayam movies, because they have some unique and real incident based stories. this movie's story is totally different. it's about a girl who faced struggle when she did not get a baby and the pressure given by society!!!.",
+        "photos": [
+            "./assets/images/movie-JAN242025/January_24_2025_1.jpg",
+            "./assets/images/movie-JAN242025/January_24_2025_10.jpg",
+            "./assets/images/movie-JAN242025/January_24_2025_2.jpg",
+            "./assets/images/movie-JAN242025/January_24_2025_3.jpg",
+            "./assets/images/movie-JAN242025/January_24_2025_4.jpg",
+            "./assets/images/movie-JAN242025/January_24_2025_7.jpg",
+            "./assets/images/movie-JAN242025/January_24_2025_8.jpg"
+        ]
     }
 ]

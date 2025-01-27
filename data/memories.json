@@ -648,5 +648,23 @@
             "./assets/images/movie-JAN242025/January_24_2025_7.jpg",
             "./assets/images/movie-JAN242025/January_24_2025_8.jpg"
         ]
+    },
+    {
+        "id": 25,
+        "title": "Hill palace",
+        "description": "Mission Failed photos will be uploaded soon",
+        "image": "",
+        "date": "January 26, 2025",
+        "details": "On the republic day we just made a team to visit hill palace tripunithura any how it was closed for republic day. our joy did not stop we enjoyed takin some phots and returend with happy 😂",
+        "photos": []
+    },
+    {
+        "id": 25,
+        "title": "Great insultant 😁",
+        "description": "mission is not seriou 😂 let me know if it is serious I can risk",
+        "image": "",
+        "date": "January 27, 2025",
+        "details": "😂",
+        "photos": []
     }
 ]

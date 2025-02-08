@@ -1,0 +1,13 @@
+{
+    "photos": [
+        "./assets/images/03_08.02.2025NSS/date.py",
+        "./assets/images/03_08.02.2025NSS/February_08_2025_1.jpg",
+        "./assets/images/03_08.02.2025NSS/February_08_2025_2.jpg",
+        "./assets/images/03_08.02.2025NSS/February_08_2025_3.jpg",
+        "./assets/images/03_08.02.2025NSS/February_08_2025_4.jpg",
+        "./assets/images/03_08.02.2025NSS/February_08_2025_5.jpg",
+        "./assets/images/03_08.02.2025NSS/February_08_2025_6.jpg",
+        "./assets/images/03_08.02.2025NSS/February_08_2025_7.jpg",
+        "./assets/images/03_08.02.2025NSS/ptyhon.py"
+    ]
+}

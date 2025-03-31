@@ -599,7 +599,7 @@
         "description": "We gratefull to every days",
         "image": "./assets/images/JAN012025-newyear/January_04_2025_8.jpg",
         "date": "January 1, 2025",
-        "details": "New year with new hopes . Added two monster(books) to bookshelf.A memorial gift from a friend and a kind sister, placed in the memory box",
+        "details": "New year with new hopes . Added two monster(books) to bookshelf.A memorial gift from a friend.",
         "photos": [
             "./assets/images/JAN012025-newyear/January_04_2025_3.jpg",
             "./assets/images/JAN012025-newyear/January_04_2025_8.jpg"
@@ -739,5 +739,14 @@
             "./assets/images/03_08.02.2025NSS/February_08_2025_6.jpg",
             "./assets/images/03_08.02.2025NSS/February_08_2025_7.jpg"
         ]
+    },
+    {
+        "id": 25,
+        "title": "Special meeting",
+        "description": "..",
+        "image": "",
+        "date": "March 13, 2025",
+        "details": "??? means",
+        "photos": []
     }
 ]

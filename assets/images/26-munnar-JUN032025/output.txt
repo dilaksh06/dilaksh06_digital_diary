@@ -1,0 +1,16 @@
+{
+    "photos": [
+        "./assets/images/26-munnar-JUN032025\\date.py",
+        "./assets/images/26-munnar-JUN032025\\ptyhon.py",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_1.HEIC",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_10.heic",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_2.HEIC",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_3.HEIC",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_4.HEIC",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_5.HEIC",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_6.heic",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_7.heic",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_8.heic",
+        "./assets/images/26-munnar-JUN032025\\September_08_2025_9.heic"
+    ]
+}

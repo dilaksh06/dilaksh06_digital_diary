@@ -753,22 +753,20 @@
         "id": 26,
         "title": "Trip to Munnar",
         "description": "A refreshing getaway to the picturesque hill station of Munnar, where we immersed ourselves in the beauty of nature, explored tea plantations, and created unforgettable memories with friends.",
-        "image":  "./assets/images/26-munnar-JUN032025\\September_08_2025_1.HEIC",
-        "date": "June 03, 2025",
+        "image": "./assets/images/26-munnar-JUN032025/September_08_2025_1.HEIC",
+        "date": "June 3, 2025",
         "details": "Our trip to Munnar was a delightful escape from the hustle and bustle of daily life. We started our journey early in the morning, driving through scenic routes that offered breathtaking views of lush greenery and rolling hills. Upon arrival, we checked into a cozy resort nestled amidst the tea gardens, providing a perfect blend of comfort and nature.\n\nDuring our stay, we explored the famous tea plantations, learning about the tea-making process and enjoying the serene ambiance. The cool climate and fresh air were invigorating, making our walks through the plantations even more enjoyable. We also visited popular attractions like Eravikulam National Park, where we spotted the endangered Nilgiri Tahr and marveled at the panoramic views from Anamudi Peak.\n\nEvenings were spent around bonfires, sharing stories and laughter under the starry sky. The local cuisine was a treat for our taste buds, with traditional Kerala dishes that were both flavorful and satisfying. Our trip to Munnar was not just a vacation; it was an experience that rejuvenated our spirits and strengthened our bonds of friendship.",
-        
-    "photos": [
-
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_1.HEIC",
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_10.heic",
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_2.HEIC",
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_3.HEIC",
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_4.HEIC",
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_5.HEIC",
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_6.heic",
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_7.heic",
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_8.heic",
-        "./assets/images/26-munnar-JUN032025\\September_08_2025_9.heic"
-    ]
+        "photos": [
+            "./assets/images/26-munnar-JUN032025/September_08_2025_1.HEIC",
+            "./assets/images/26-munnar-JUN032025/September_08_2025_10.HEIC",
+            "./assets/images/26-munnar-JUN032025/September_08_2025_2.HEIC",
+            "./assets/images/26-munnar-JUN032025/September_08_2025_3.HEIC",
+            "./assets/images/26-munnar-JUN032025/September_08_2025_4.HEIC",
+            "./assets/images/26-munnar-JUN032025/September_08_2025_5.HEIC",
+            "./assets/images/26-munnar-JUN032025/September_08_2025_6.HEIC",
+            "./assets/images/26-munnar-JUN032025/September_08_2025_7.HEIC",
+            "./assets/images/26-munnar-JUN032025/September_08_2025_8.HEIC",
+            "./assets/images/26-munnar-JUN032025/September_08_2025_9.HEIC"
+        ]
     }
 ]

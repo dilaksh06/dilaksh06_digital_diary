@@ -6,7 +6,7 @@ def save_file_names_to_json(folder_path, output_file):
     try:
         # List all files in the folder
         files = [
-            os.path.join("./assets/images/26-munnar-JUN032025/", f)
+            os.path.join("./assets/images/27-onam-Aug272025/", f)
             for f in os.listdir(folder_path)
             if os.path.isfile(os.path.join(folder_path, f))
         ]
